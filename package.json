@@ -1,0 +1,31 @@
+{
+  "name": "bob-grapesjs-blocks-post",
+  "version": "1.0.0",
+  "description": "Post blocks for the GrapesJS editor",
+  "main": "dist/index.js",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "grapesjs-cli build",
+    "dev": "grapesjs-cli serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boykioyb/grapesjs-blocks-post.git"
+  },
+  "keywords": [
+    "grapesjs",
+    "plugin",
+    "blocks",
+    "basic",
+    "post",
+    "boykioyb"
+  ],
+  "author": "HoaTQ",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "grapesjs": "^0.21.2",
+    "grapesjs-cli": "^4.1.1"
+  }
+}
